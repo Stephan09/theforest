@@ -27,10 +27,7 @@ client.on('guildMemberAdd', member => {
 
 
 
-client.on('ready', () => {
-	console.log("Bot erfolgreich hochgefahren\n\n")
-	});
-	
+
 	
 	
 	
